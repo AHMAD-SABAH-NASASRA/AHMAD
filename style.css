@@ -2,6 +2,8 @@ body{
 
 background-color: bisque;
 }
+
+
 h1{
     color: brown;
     border-bottom-style: outset;
@@ -13,48 +15,75 @@ h1{
 }
 
 
-h3{border-style: ridge ;
-    border-width: 4px;
+
+
+#par1{
+    background-color: rgb(130, 37, 37);
+    border-radius: 0px;
+    padding: 5px;
+    
+}
+
+#p1{
+
+    border-width: 3px;
+    height: 190px;
+    border-color: black;
+    background-color: rgb(196, 96, 96);
+    border-bottom-style: outset;
+    padding: 5px;
+    border-top-style: inset;
+
+}
+
+#im1{
+    
+    border-style: outset ;
+    border-width: 3px;
+border-color: black;
+border-radius: 3px;
+width: 150px;
+float:right;
+}
+
+
+
+
+
+h3{
+    border-style: ridge ;
+    
+    border-width: 1px;
     border-color: black;
     border-radius: 10px;
 background-color: rgba(137, 121, 53, 0.26);
 
 }
 
-#p1{
 
 
-
-    
-    border-width: 3px;
-    border-color: black;
-    background-color: rgb(196, 96, 96);
-    border-bottom-style: outset;
-    padding: 5px;
-
+#ti1{
+    width: 310px;
 }
 
-
-li{
+#hop{
     border-style: outset ;
     border-width: 3px;
 border-color: black;
 border-radius: 3px;
     background-color: rgb(201, 200, 103);
+    height: 100px;
 }
-#par1{
 
-
-
-
-    background-color: rgb(130, 37, 37);
-    border-radius: 5px;
-    padding: 5px;
+#im2{
     
-
-
+    float:right;
 
 }
+
+
+
+
 
 #p{
     
@@ -68,20 +97,38 @@ border-radius: 3px;
 }
 
 
-#ti1{
-    width: 310px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #ti2{
     width: 300px;
 }
-
-
 #inpu{
     width: 175px;
 
 }
+
 
 
 #p2 {
