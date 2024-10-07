@@ -1,0 +1,95 @@
+body{
+
+background-color: bisque;
+}
+h1{
+    color: brown;
+    border-bottom-style: outset;
+    width: 130px;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+    
+}
+
+
+h3{border-style: ridge ;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+background-color: rgba(137, 121, 53, 0.26);
+
+}
+
+#p1{
+
+
+
+    
+    border-width: 3px;
+    border-color: black;
+    background-color: rgb(196, 96, 96);
+    border-bottom-style: outset;
+    padding: 5px;
+
+}
+
+
+li{
+    border-style: outset ;
+    border-width: 3px;
+border-color: black;
+border-radius: 3px;
+    background-color: rgb(201, 200, 103);
+}
+#par1{
+
+
+
+
+    background-color: rgb(130, 37, 37);
+    border-radius: 5px;
+    padding: 5px;
+    
+
+
+
+}
+
+#p{
+    
+    border-width: 4px;
+    border-color: black;
+    background-color: rgb(130, 37, 37);
+    border-radius: 5px;
+
+    height: 165px;
+    width: 250px;
+}
+
+
+#ti1{
+    width: 310px;
+}
+
+
+#ti2{
+    width: 300px;
+}
+
+
+#inpu{
+    width: 175px;
+
+}
+
+
+#p2 {
+border-style: inset;
+border-width: 3px;
+border-color: black;
+background-color: rgb(130, 37, 37);
+border-radius: 5px;
+padding: 5px;
+height: 110px;
+}
